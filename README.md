@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Basic OpenGL
 
 
@@ -123,3 +124,7 @@ To remove the block, open the MacOS "Settings", go to "Privacy & Security", scro
 
 - glm: \
   https://github.com/g-truc/glm/releases/tag/1.0.1
+=======
+# Rubiks-Cube-game
+Computer Graphics assignment3 BGU
+>>>>>>> 0938ab7eda779e128ecfb5b0cb4bb74f708b05e9
